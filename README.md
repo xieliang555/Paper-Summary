@@ -1,5 +1,5 @@
-# Sequence-to-Sequence Summary
-Paper summary of Seq-to-Seq tasks in CV, NLP, and speech.
+# Sequence-to-Sequence
+Seq-to-Seq tasks in CV, NLP, and speech.
 
 
 ## sign-language-recognition
@@ -32,3 +32,12 @@ Paper summary of Seq-to-Seq tasks in CV, NLP, and speech.
 - Reconstruction Network for Video Captioning [[ref](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Reconstruction_Network_for_CVPR_2018_paper.pdf)]
 
 
+# Reinforcement Learning
+
+## meta-rL
+
+- Few-shot learning of neural networks from scratch by pseudo example optimization [[ref](https://arxiv.org/abs/1802.03039)]
+- Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables [[ref](https://arxiv.org/abs/1903.08254)]
+
+## others
+- Residual Policy Learning [[ref](https://arxiv.org/pdf/1812.06298.pdf)]
