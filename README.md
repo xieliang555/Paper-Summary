@@ -39,5 +39,5 @@ Seq-to-Seq tasks in CV, NLP, and speech.
 - Optimization as a Model for Few-Shot Learning [[ref](https://openreview.net/pdf?id=rJY0-Kcll)]
 - Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables [[ref](https://arxiv.org/abs/1903.08254)]
 
-2. others
+2. miscellaneous
 - Residual Policy Learning [[ref](https://arxiv.org/pdf/1812.06298.pdf)]
