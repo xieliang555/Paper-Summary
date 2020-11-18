@@ -36,7 +36,7 @@ Seq-to-Seq tasks in CV, NLP, and speech.
 
 1. meta-rl
 
-- Few-shot learning of neural networks from scratch by pseudo example optimization [[ref](https://arxiv.org/abs/1802.03039)]
+- Optimization as a Model for Few-Shot Learning [[ref](https://openreview.net/pdf?id=rJY0-Kcll)]
 - Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables [[ref](https://arxiv.org/abs/1903.08254)]
 
 2. others
