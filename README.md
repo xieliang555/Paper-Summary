@@ -2,13 +2,13 @@
 Seq-to-Seq tasks in CV, NLP, and speech.
 
 
-### sign-language-recognition
+1. sign-language-recognition
 
 - SubUNets: End-to-end Hand Shape and Continuous Sign Language Recognition [[ref](http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/papers/Camgoz17.pdf)]
 - Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs [[ref](https://ieeexplore.ieee.org/document/8099847)]
 
 
-### automatic-speech-recognition
+2. automatic-speech-recognition
 
 - Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks [[ref](https://dl.acm.org/doi/pdf/10.1145/1143844.1143891)]
 - Sequence Transduction with Recurrent Neural Networks [[ref](https://arxiv.org/pdf/1211.3711.pdf%20http://arxiv.org/abs/1211.3711)]
@@ -34,7 +34,7 @@ Seq-to-Seq tasks in CV, NLP, and speech.
 
 ## Reinforcement Learning
 
-### meta-rL
+### meta-rl
 
 - Few-shot learning of neural networks from scratch by pseudo example optimization [[ref](https://arxiv.org/abs/1802.03039)]
 - Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables [[ref](https://arxiv.org/abs/1903.08254)]
