@@ -35,9 +35,16 @@ Seq-to-Seq tasks in CV, NLP, and speech.
 ## Reinforcement Learning
 
 1. meta-rl
-
 - Optimization as a Model for Few-Shot Learning. [ICLR 2017] [[ref](https://openreview.net/pdf?id=rJY0-Kcll)]
 - Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables [ICML 2019] [[ref](https://arxiv.org/abs/1903.08254)]
 
 2. miscellaneous
 - Residual Policy Learning [arXiv 2019] [[ref](https://arxiv.org/pdf/1812.06298.pdf)]
+
+
+## Robitic
+
+1. peg-in-hole
+- Meta-Reinforcement Learning for Robotic Industrial Insertion Tasks [arXiv 2020] [[ref](https://arxiv.org/abs/2004.14404)]
+
+
