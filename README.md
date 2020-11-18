@@ -40,4 +40,4 @@ Seq-to-Seq tasks in CV, NLP, and speech.
 - Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables [ICML 2019] [[ref](https://arxiv.org/abs/1903.08254)]
 
 2. miscellaneous
-- Residual Policy Learning [[ref](https://arxiv.org/pdf/1812.06298.pdf)]
+- Residual Policy Learning [arXiv 2019] [[ref](https://arxiv.org/pdf/1812.06298.pdf)]
